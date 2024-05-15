@@ -19,6 +19,15 @@ public class LoginPage {
 			PageFactory.initElements(rdriver,this);
 		}
 		
+		@FindBy(className="login")
+		WebElement ClickSign;
+		
+		@FindBy(id="email_create")
+		WebElement Email1;
+		
+		@FindBy(xpath="//*[@id=\"SubmitCreate\"]/span/i")
+		WebElement Create;
+		
 		@FindBy(name="id_gender")
 		WebElement MrRadioButton;
 		
@@ -38,34 +47,41 @@ public class LoginPage {
 		@FindBy(id = "days")
 		private WebElement EnterDate;
 
-		public Select selectDateDropdown() {
-		    return new Select(EnterDate);
-		}
+		
 
-		@FindBy(id = "month")
+		@FindBy(id = "months")
 		private WebElement EnterMonth;
 
-		public Select selectMonthDropdown() {
-		    return new Select(EnterMonth);
-		}
-
-		@FindBy(id = "year")
+		
+		@FindBy(id = "years")
 		private WebElement EnterYear;
 
-		public Select selectYearDropdown() {
-		    return new Select(EnterYear);
-		}
-
+		
 		@FindBy(id="newsletter")
 		WebElement NewsLetter;
 		
-		@FindBy(linkText="Register")
-		WebElement ClickRegister;
+		//@FindBy(partialLinkText="Register")
+		//WebElement ClickRegister;
 		
 		
 
 		
 		//methods
+		
+		public void ClickSignin()
+		{
+			ClickSign.click();
+		}
+		
+		public void setEmail1(String email)
+		{
+			Email1.sendKeys(email);
+		}
+		
+		public void ClickCreate()
+		{
+			Create.click();
+		}
 		
 		public void setRadioButton()
 		{
@@ -91,27 +107,30 @@ public class LoginPage {
 		{
 			EnterPassword.sendKeys(password);
 		}
-		public void setDate(CharSequence[] date)
-		{
-		  EnterDate.sendKeys(date);	
+		public void setDate(String date) {
+		    EnterDate.sendKeys(date);
 		}
-		
-		public void setMonth(CharSequence[] month)
+
+		public void setMonth(String month)
 		{
 			EnterMonth.sendKeys(month);
-		}
-		public void setYear(CharSequence[] year)
+		}		
+		public void setYear(String year)
 		{
+			//Select selectDateDropdown = new Select(EnterYear);
+		    //selectDateDropdown.selectByVisibleText(String.valueOf(year));
 			EnterYear.sendKeys(year);
 		}
+		
 		public void setNewsLetter()
 		{
 			NewsLetter.click();
 		}
-		public void Register()
-		{
-			ClickRegister.click();
-		}	
+		//public void Register()
+		//{
+			//ClickRegister.click();
+		//}
+		
 	}
 		
 		

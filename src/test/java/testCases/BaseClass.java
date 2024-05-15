@@ -11,11 +11,11 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.devtools.v118.page.Page;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
-
 import org.testng.annotations.Parameters;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import utilities.ReadConfig;
@@ -29,9 +29,10 @@ public class BaseClass {
 	public String lastname=readconfig.getLastName();
 	public String email=readconfig.getEmail();
 	public String password=readconfig.getPassword();
-	public int date=readconfig.getDate();
-	public int month=readconfig.getMonth();
-	public int year=readconfig.getYear();
+	public String date=readconfig.getDate();
+	public String month=readconfig.getMonth();
+	public String year=readconfig.getYear();
+	
 	
 	public static WebDriver driver;
 	
@@ -42,31 +43,42 @@ public class BaseClass {
 	public void setup(String br) throws InterruptedException
 	{			
 		logger = Logger.getLogger("Banking");
-		PropertyConfigurator.configure("Log4j.properties");
+		PropertyConfigurator.configure("log4j.properties");
 		
 		if(br.equals("chrome"))
 		{
+			logger.info("chrome is starting");
+			//System.setProperty("webdriver.chrome.driver",readconfig.getChromePath());
 			WebDriverManager.chromedriver().setup();
-	        driver = new ChromeDriver();
-			}
+			driver=new ChromeDriver();
+		}
+		
 		else if(br.equals("firefox"))
 			
 		{
 
-			WebDriverManager.firefoxdriver().setup();
+			//WebDriverManager.firefoxdriver().setup();
+			System.setProperty("webdriver.firefox.driver",readconfig.getFirefoxPath());
 	        driver = new FirefoxDriver();
 			}
 		else if(br.equals("ie"))
 		{
 
-			WebDriverManager.iedriver().setup();
+			//WebDriverManager.iedriver().setup();
+			System.setProperty("webdriver.ie.driver",readconfig.getIEPath());
 	        driver = new InternetExplorerDriver();
 			}
 		
-		//driver.manage().timeouts().yWait(10,Timeouts.SECONDS);
+		//driver.manage().timeouts().implicitlyWait(10,Timeouts.SECONDS);
+		Thread.sleep(30);
+		//driver.get(baseurl);
+		driver.get("http://www.automationpractice.pl/index.php");
+		driver.manage().window().maximize();
+		logger.info("url is opening");
+		//@pytest.fixture()
+		//public void page_main(baseurl, selenium) {
+		  //  return Page.MainPage(selenium, baseurl=baseurl);
 		
-		driver.get(baseurl);
-		Thread.sleep(3000);
 	}
 	
 	@AfterClass

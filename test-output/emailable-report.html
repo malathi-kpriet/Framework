@@ -9,18 +9,18 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="8">Banking</th></tr>
-<tr><td><a href="#t0">BankingApp Test</a></td><td class="num">0</td><td class="num attn">1</td><td class="num">0</td><td class="num">0</td><td class="num">1,776</td><td></td><td></td></tr>
+<tr><td><a href="#t0">BankingApp Test</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">21,693</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Banking</th></tr></tbody><tbody id="t0"><tr><th colspan="4">BankingApp Test &#8212; failed (configuration methods)</th></tr><tr class="failedeven"><td rowspan="1">testCases.LoginPageTestCase</td><td><a href="#m0">setup</a></td><td rowspan="1">1715100033009</td><td rowspan="1">1726</td></tr><tr><th colspan="4">BankingApp Test &#8212; skipped (configuration methods)</th></tr><tr class="skippedeven"><td rowspan="1">testCases.LoginPageTestCase</td><td><a href="#m1">tearDown</a></td><td rowspan="1">1715100034756</td><td rowspan="1">0</td></tr><tr><th colspan="4">BankingApp Test &#8212; skipped</th></tr><tr class="skippedeven"><td rowspan="1">testCases.LoginPageTestCase</td><td><a href="#m2">loginTest</a></td><td rowspan="1">1715100034752</td><td rowspan="1">0</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Banking</th></tr></tbody><tbody id="t0"><tr><th colspan="4">BankingApp Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">testCases.LoginPageTestCase</td><td><a href="#m0">loginTest</a></td><td rowspan="1">1715788598748</td><td rowspan="1">13021</td></tr></tbody>
 </table>
-<h2>BankingApp Test</h2><h3 id="m0">testCases.LoginPageTestCase#setup</h3><table class="result"><tr class="param"><th>Parameter #1</th></tr><tr class="param stripe"><td>chrome</td></tr><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.InvalidArgumentException: invalid argument
-  (Session info: chrome=124.0.6367.119)
+<h2>BankingApp Test</h2><h3 id="m0">testCases.LoginPageTestCase#loginTest</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: Unable to locate element: Register
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: &apos;4.16.1&apos;, revision: &apos;9b4c83354e&apos;
 System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.10&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [dd3bc89f38ac1b1e3864c57dbf0e2117, get {url=&quot;http://www.automationpractice.pl/index.php?controller=authentication&amp;back=my-account#account-creation&quot;}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.119, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\malat\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63011}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63011/devtoo..., se:cdpVersion: 124.0.6367.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: dd3bc89f38ac1b1e3864c57dbf0e2117
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [5c017c6e-b267-451e-8ed7-383a0a38014e, findElement {using=partial link text, value=Register}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 125.0.3, moz:accessibilityChecks: false, moz:buildID: 20240425211020, moz:debuggerAddress: 127.0.0.1:23191, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 10228, moz:profile: C:\Users\malat\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:23191/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 5c017c6e-b267-451e-8ed7-383a0a38014e
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
@@ -28,29 +28,16 @@ Session ID: dd3bc89f38ac1b1e3864c57dbf0e2117
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
-	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:305)
-	at testCases.BaseClass.setup(BaseClass.java:68)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.click(Unknown Source)
+	at pageObjects.LoginPage.Register(LoginPage.java:136)
+	at testCases.LoginPageTestCase.loginTest(LoginPageTestCase.java:69)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 30 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">testCases.LoginPageTestCase#tearDown</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">testCases.LoginPageTestCase#loginTest</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.InvalidArgumentException: invalid argument
-  (Session info: chrome=124.0.6367.119)
-Build info: version: &apos;4.16.1&apos;, revision: &apos;9b4c83354e&apos;
-System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.10&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [dd3bc89f38ac1b1e3864c57dbf0e2117, get {url=&quot;http://www.automationpractice.pl/index.php?controller=authentication&amp;back=my-account#account-creation&quot;}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.119, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\malat\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63011}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63011/devtoo..., se:cdpVersion: 124.0.6367.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: dd3bc89f38ac1b1e3864c57dbf0e2117
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
-	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:305)
-	at testCases.BaseClass.setup(BaseClass.java:68)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 30 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+... Removed 32 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

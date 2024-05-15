@@ -1,0 +1,392 @@
+2024-05-15 08:39:02,277 [main] INFO Banking - chrome is starting
+2024-05-15 08:40:49,332 [main] INFO Banking - chrome is starting
+2024-05-15 08:43:17,878 [main] INFO Banking - chrome is starting
+2024-05-15 08:46:37,877 [main] INFO Banking - url is opening
+2024-05-15 08:46:37,927 [main] INFO Banking - URL is opened
+2024-05-15 08:46:37,953 [main] INFO Banking - URL is opened
+2024-05-15 08:48:03,393 [main] INFO Banking - url is opening
+2024-05-15 08:48:03,422 [main] INFO Banking - URL is opened
+2024-05-15 08:48:03,438 [main] INFO Banking - URL is opened
+2024-05-15 09:59:28,817 [main] INFO Banking - url is opening
+2024-05-15 09:59:28,856 [main] INFO Banking - URL is opened
+2024-05-15 10:01:27,390 [main] INFO Banking - url is opening
+2024-05-15 10:01:27,418 [main] INFO Banking - URL is opened
+2024-05-15 10:03:15,737 [main] INFO Banking - url is opening
+2024-05-15 10:03:15,761 [main] INFO Banking - URL is opened
+2024-05-15 10:37:31,042 [main] INFO Banking - url is opening
+2024-05-15 10:37:31,077 [main] INFO Banking - URL is opened
+2024-05-15 10:37:31,100 [main] INFO Banking - URL is opened
+2024-05-15 10:37:33,225 [main] INFO Banking - Clicked sign in
+2024-05-15 10:37:33,313 [main] INFO Banking - Entered email
+2024-05-15 10:41:58,424 [main] INFO Banking - url is opening
+2024-05-15 10:41:58,459 [main] INFO Banking - URL is opened
+2024-05-15 10:41:58,492 [main] INFO Banking - URL is opened
+2024-05-15 10:42:00,117 [main] INFO Banking - Clicked sign in
+2024-05-15 10:42:00,195 [main] INFO Banking - Entered email
+2024-05-15 10:44:56,958 [main] INFO Banking - url is opening
+2024-05-15 10:44:56,993 [main] INFO Banking - URL is opened
+2024-05-15 10:44:57,017 [main] INFO Banking - URL is opened
+2024-05-15 10:44:58,598 [main] INFO Banking - Clicked sign in
+2024-05-15 10:44:58,684 [main] INFO Banking - Entered email
+2024-05-15 10:46:07,238 [main] INFO Banking - url is opening
+2024-05-15 10:46:07,279 [main] INFO Banking - URL is opened
+2024-05-15 10:46:07,304 [main] INFO Banking - URL is opened
+2024-05-15 10:46:09,171 [main] INFO Banking - Clicked sign in
+2024-05-15 10:46:09,268 [main] INFO Banking - Entered email
+2024-05-15 10:46:09,511 [main] INFO Banking - Clicked on Create Account
+2024-05-15 10:47:53,440 [main] INFO Banking - url is opening
+2024-05-15 10:47:53,501 [main] INFO Banking - URL is opened
+2024-05-15 10:47:53,526 [main] INFO Banking - URL is opened
+2024-05-15 10:47:55,043 [main] INFO Banking - Clicked sign in
+2024-05-15 10:47:55,155 [main] INFO Banking - Entered email
+2024-05-15 10:47:55,415 [main] INFO Banking - Clicked on Create Account
+2024-05-15 10:50:49,436 [main] INFO Banking - url is opening
+2024-05-15 10:50:49,458 [main] INFO Banking - URL is opened
+2024-05-15 10:50:49,487 [main] INFO Banking - URL is opened
+2024-05-15 10:50:50,979 [main] INFO Banking - Clicked sign in
+2024-05-15 10:50:51,056 [main] INFO Banking - Entered email
+2024-05-15 10:50:51,299 [main] INFO Banking - Clicked on Create Account
+2024-05-15 10:52:02,135 [main] INFO Banking - url is opening
+2024-05-15 10:52:02,160 [main] INFO Banking - URL is opened
+2024-05-15 10:52:02,199 [main] INFO Banking - URL is opened
+2024-05-15 10:52:03,965 [main] INFO Banking - Clicked sign in
+2024-05-15 10:52:04,060 [main] INFO Banking - Entered email
+2024-05-15 10:52:04,309 [main] INFO Banking - Clicked on Create Account
+2024-05-15 10:52:57,164 [main] INFO Banking - url is opening
+2024-05-15 10:52:57,198 [main] INFO Banking - URL is opened
+2024-05-15 10:52:57,227 [main] INFO Banking - URL is opened
+2024-05-15 10:52:58,825 [main] INFO Banking - Clicked sign in
+2024-05-15 10:52:58,894 [main] INFO Banking - Entered email
+2024-05-15 10:52:59,163 [main] INFO Banking - Clicked on Create Account
+2024-05-15 10:53:35,652 [main] INFO Banking - url is opening
+2024-05-15 10:53:35,679 [main] INFO Banking - URL is opened
+2024-05-15 10:53:35,711 [main] INFO Banking - URL is opened
+2024-05-15 10:53:37,287 [main] INFO Banking - Clicked sign in
+2024-05-15 10:53:37,364 [main] INFO Banking - Entered email
+2024-05-15 10:53:37,928 [main] INFO Banking - Clicked on Create Account
+2024-05-15 10:54:46,890 [main] INFO Banking - url is opening
+2024-05-15 10:54:46,947 [main] INFO Banking - URL is opened
+2024-05-15 10:54:46,982 [main] INFO Banking - URL is opened
+2024-05-15 10:54:48,745 [main] INFO Banking - Clicked sign in
+2024-05-15 10:54:48,844 [main] INFO Banking - Entered email
+2024-05-15 10:54:52,109 [main] INFO Banking - Clicked on Create Account
+2024-05-15 10:55:44,300 [main] INFO Banking - url is opening
+2024-05-15 10:55:44,354 [main] INFO Banking - URL is opened
+2024-05-15 10:55:44,384 [main] INFO Banking - URL is opened
+2024-05-15 10:55:46,279 [main] INFO Banking - Clicked sign in
+2024-05-15 10:55:46,352 [main] INFO Banking - Entered email
+2024-05-15 10:55:49,631 [main] INFO Banking - Clicked on Create Account
+2024-05-15 10:56:47,761 [main] INFO Banking - url is opening
+2024-05-15 10:56:47,798 [main] INFO Banking - URL is opened
+2024-05-15 10:56:47,844 [main] INFO Banking - URL is opened
+2024-05-15 10:56:49,775 [main] INFO Banking - Clicked sign in
+2024-05-15 10:56:49,851 [main] INFO Banking - Entered email
+2024-05-15 10:56:50,092 [main] INFO Banking - Clicked on Create Account
+2024-05-15 10:56:53,349 [main] INFO Banking - Clicked radiobutton
+2024-05-15 10:56:53,444 [main] INFO Banking - Entered username
+2024-05-15 10:56:53,493 [main] INFO Banking - Entered lastname
+2024-05-15 10:56:53,543 [main] INFO Banking - Entered email
+2024-05-15 10:56:53,588 [main] INFO Banking - Entered username
+2024-05-15 10:56:53,828 [main] INFO Banking - clicked newsletter
+2024-05-15 10:57:41,703 [main] INFO Banking - url is opening
+2024-05-15 10:57:41,743 [main] INFO Banking - URL is opened
+2024-05-15 10:57:41,798 [main] INFO Banking - URL is opened
+2024-05-15 10:57:43,305 [main] INFO Banking - Clicked sign in
+2024-05-15 10:57:43,381 [main] INFO Banking - Entered email
+2024-05-15 10:57:43,620 [main] INFO Banking - Clicked on Create Account
+2024-05-15 10:57:46,880 [main] INFO Banking - Clicked radiobutton
+2024-05-15 10:57:46,971 [main] INFO Banking - Entered username
+2024-05-15 10:57:47,031 [main] INFO Banking - Entered lastname
+2024-05-15 10:57:47,087 [main] INFO Banking - Entered email
+2024-05-15 10:57:47,131 [main] INFO Banking - Entered username
+2024-05-15 10:57:47,376 [main] INFO Banking - clicked newsletter
+2024-05-15 10:58:49,245 [main] INFO Banking - url is opening
+2024-05-15 10:58:49,305 [main] INFO Banking - URL is opened
+2024-05-15 10:58:49,363 [main] INFO Banking - URL is opened
+2024-05-15 10:58:50,985 [main] INFO Banking - Clicked sign in
+2024-05-15 10:58:51,106 [main] INFO Banking - Entered email
+2024-05-15 10:58:51,408 [main] INFO Banking - Clicked on Create Account
+2024-05-15 10:58:54,684 [main] INFO Banking - Clicked radiobutton
+2024-05-15 10:58:54,804 [main] INFO Banking - Entered username
+2024-05-15 10:58:54,853 [main] INFO Banking - Entered lastname
+2024-05-15 10:58:54,947 [main] INFO Banking - Entered email
+2024-05-15 10:58:57,998 [main] INFO Banking - Entered username
+2024-05-15 10:58:58,237 [main] INFO Banking - clicked newsletter
+2024-05-15 11:00:04,047 [main] INFO Banking - url is opening
+2024-05-15 11:00:04,086 [main] INFO Banking - URL is opened
+2024-05-15 11:00:04,129 [main] INFO Banking - URL is opened
+2024-05-15 11:00:06,572 [main] INFO Banking - Clicked sign in
+2024-05-15 11:00:06,671 [main] INFO Banking - Entered email
+2024-05-15 11:00:06,910 [main] INFO Banking - Clicked on Create Account
+2024-05-15 11:00:10,151 [main] INFO Banking - Clicked radiobutton
+2024-05-15 11:00:10,232 [main] INFO Banking - Entered username
+2024-05-15 11:00:10,289 [main] INFO Banking - Entered lastname
+2024-05-15 11:00:10,336 [main] INFO Banking - Entered username
+2024-05-15 11:00:10,591 [main] INFO Banking - clicked newsletter
+2024-05-15 11:01:07,900 [main] INFO Banking - url is opening
+2024-05-15 11:01:07,948 [main] INFO Banking - URL is opened
+2024-05-15 11:01:08,001 [main] INFO Banking - URL is opened
+2024-05-15 11:01:09,579 [main] INFO Banking - Clicked sign in
+2024-05-15 11:01:09,672 [main] INFO Banking - Entered email
+2024-05-15 11:01:09,910 [main] INFO Banking - Clicked on Create Account
+2024-05-15 11:01:13,170 [main] INFO Banking - Clicked radiobutton
+2024-05-15 11:01:13,243 [main] INFO Banking - Entered username
+2024-05-15 11:01:13,284 [main] INFO Banking - Entered lastname
+2024-05-15 11:01:13,326 [main] INFO Banking - Entered username
+2024-05-15 11:01:13,575 [main] INFO Banking - clicked newsletter
+2024-05-15 20:45:36,669 [main] INFO Banking - url is opening
+2024-05-15 20:45:36,699 [main] INFO Banking - URL is opened
+2024-05-15 20:45:36,737 [main] INFO Banking - URL is opened
+2024-05-15 20:45:38,214 [main] INFO Banking - Clicked sign in
+2024-05-15 20:45:38,323 [main] INFO Banking - Entered email
+2024-05-15 20:45:38,584 [main] INFO Banking - Clicked on Create Account
+2024-05-15 20:45:41,832 [main] INFO Banking - Clicked radiobutton
+2024-05-15 20:45:41,920 [main] INFO Banking - Entered username
+2024-05-15 20:45:41,957 [main] INFO Banking - Entered lastname
+2024-05-15 20:45:42,020 [main] INFO Banking - Entered username
+2024-05-15 20:46:42,355 [main] INFO Banking - url is opening
+2024-05-15 20:46:42,380 [main] INFO Banking - URL is opened
+2024-05-15 20:46:42,417 [main] INFO Banking - URL is opened
+2024-05-15 20:46:44,254 [main] INFO Banking - Clicked sign in
+2024-05-15 20:46:44,313 [main] INFO Banking - Entered email
+2024-05-15 20:46:44,548 [main] INFO Banking - Clicked on Create Account
+2024-05-15 20:46:47,811 [main] INFO Banking - Clicked radiobutton
+2024-05-15 20:46:47,909 [main] INFO Banking - Entered username
+2024-05-15 20:46:47,936 [main] INFO Banking - Entered lastname
+2024-05-15 20:46:47,971 [main] INFO Banking - Entered username
+2024-05-15 20:47:15,949 [main] INFO Banking - url is opening
+2024-05-15 20:47:15,972 [main] INFO Banking - URL is opened
+2024-05-15 20:47:16,007 [main] INFO Banking - URL is opened
+2024-05-15 20:47:18,372 [main] INFO Banking - Clicked sign in
+2024-05-15 20:47:18,439 [main] INFO Banking - Entered email
+2024-05-15 20:47:18,680 [main] INFO Banking - Clicked on Create Account
+2024-05-15 20:47:21,927 [main] INFO Banking - Clicked radiobutton
+2024-05-15 20:47:21,993 [main] INFO Banking - Entered username
+2024-05-15 20:47:22,022 [main] INFO Banking - Entered lastname
+2024-05-15 20:47:25,068 [main] INFO Banking - Entered username
+2024-05-15 20:48:04,439 [main] INFO Banking - url is opening
+2024-05-15 20:48:04,477 [main] INFO Banking - URL is opened
+2024-05-15 20:48:04,506 [main] INFO Banking - URL is opened
+2024-05-15 20:48:06,488 [main] INFO Banking - Clicked sign in
+2024-05-15 20:48:06,560 [main] INFO Banking - Entered email
+2024-05-15 20:48:06,807 [main] INFO Banking - Clicked on Create Account
+2024-05-15 20:48:43,672 [main] INFO Banking - url is opening
+2024-05-15 20:48:43,707 [main] INFO Banking - URL is opened
+2024-05-15 20:48:43,733 [main] INFO Banking - URL is opened
+2024-05-15 20:48:45,204 [main] INFO Banking - Clicked sign in
+2024-05-15 20:48:45,275 [main] INFO Banking - Entered email
+2024-05-15 20:48:45,514 [main] INFO Banking - Clicked on Create Account
+2024-05-15 20:48:48,783 [main] INFO Banking - Clicked radiobutton
+2024-05-15 20:48:48,876 [main] INFO Banking - Entered username
+2024-05-15 20:48:48,904 [main] INFO Banking - Entered lastname
+2024-05-15 20:48:51,980 [main] INFO Banking - Entered username
+2024-05-15 20:50:17,015 [main] INFO Banking - url is opening
+2024-05-15 20:50:17,049 [main] INFO Banking - URL is opened
+2024-05-15 20:50:17,073 [main] INFO Banking - URL is opened
+2024-05-15 20:50:18,780 [main] INFO Banking - Clicked sign in
+2024-05-15 20:50:18,849 [main] INFO Banking - Entered email
+2024-05-15 20:50:19,091 [main] INFO Banking - Clicked on Create Account
+2024-05-15 20:50:22,355 [main] INFO Banking - Clicked radiobutton
+2024-05-15 20:50:22,435 [main] INFO Banking - Entered username
+2024-05-15 20:50:22,469 [main] INFO Banking - Entered lastname
+2024-05-15 20:50:25,548 [main] INFO Banking - Entered username
+2024-05-15 20:51:33,443 [main] INFO Banking - url is opening
+2024-05-15 20:51:33,467 [main] INFO Banking - URL is opened
+2024-05-15 20:51:33,494 [main] INFO Banking - URL is opened
+2024-05-15 20:51:35,076 [main] INFO Banking - Clicked sign in
+2024-05-15 20:51:35,149 [main] INFO Banking - Entered email
+2024-05-15 20:51:35,390 [main] INFO Banking - Clicked on Create Account
+2024-05-15 20:51:38,659 [main] INFO Banking - Clicked radiobutton
+2024-05-15 20:51:38,732 [main] INFO Banking - Entered username
+2024-05-15 20:51:38,766 [main] INFO Banking - Entered lastname
+2024-05-15 20:51:41,873 [main] INFO Banking - Entered password
+2024-05-15 20:52:30,283 [main] INFO Banking - url is opening
+2024-05-15 20:52:30,306 [main] INFO Banking - URL is opened
+2024-05-15 20:52:30,325 [main] INFO Banking - URL is opened
+2024-05-15 20:52:31,761 [main] INFO Banking - Clicked sign in
+2024-05-15 20:52:31,840 [main] INFO Banking - Entered email
+2024-05-15 20:52:32,089 [main] INFO Banking - Clicked on Create Account
+2024-05-15 20:52:35,380 [main] INFO Banking - Clicked radiobutton
+2024-05-15 20:52:35,446 [main] INFO Banking - Entered username
+2024-05-15 20:52:35,479 [main] INFO Banking - Entered lastname
+2024-05-15 20:52:38,550 [main] INFO Banking - Entered password
+2024-05-15 20:53:25,480 [main] INFO Banking - url is opening
+2024-05-15 20:53:25,515 [main] INFO Banking - URL is opened
+2024-05-15 20:53:25,540 [main] INFO Banking - URL is opened
+2024-05-15 20:53:26,819 [main] INFO Banking - Clicked sign in
+2024-05-15 20:53:26,911 [main] INFO Banking - Entered email
+2024-05-15 20:53:27,148 [main] INFO Banking - Clicked on Create Account
+2024-05-15 20:53:30,403 [main] INFO Banking - Clicked radiobutton
+2024-05-15 20:53:30,492 [main] INFO Banking - Entered username
+2024-05-15 20:53:30,528 [main] INFO Banking - Entered lastname
+2024-05-15 20:53:33,604 [main] INFO Banking - Entered password
+2024-05-15 20:55:20,138 [main] INFO Banking - chrome is starting
+2024-05-15 20:55:47,211 [main] INFO Banking - url is opening
+2024-05-15 20:55:47,247 [main] INFO Banking - URL is opened
+2024-05-15 20:55:47,272 [main] INFO Banking - URL is opened
+2024-05-15 20:55:48,567 [main] INFO Banking - Clicked sign in
+2024-05-15 20:55:48,625 [main] INFO Banking - Entered email
+2024-05-15 20:55:48,864 [main] INFO Banking - Clicked on Create Account
+2024-05-15 20:55:52,111 [main] INFO Banking - Clicked radiobutton
+2024-05-15 20:55:52,204 [main] INFO Banking - Entered username
+2024-05-15 20:55:52,253 [main] INFO Banking - Entered lastname
+2024-05-15 20:55:55,329 [main] INFO Banking - Entered password
+2024-05-15 20:56:39,847 [main] INFO Banking - url is opening
+2024-05-15 20:56:39,885 [main] INFO Banking - URL is opened
+2024-05-15 20:56:39,921 [main] INFO Banking - URL is opened
+2024-05-15 20:56:41,187 [main] INFO Banking - Clicked sign in
+2024-05-15 20:56:41,266 [main] INFO Banking - Entered email
+2024-05-15 20:56:41,511 [main] INFO Banking - Clicked on Create Account
+2024-05-15 20:56:44,765 [main] INFO Banking - Clicked radiobutton
+2024-05-15 20:56:44,834 [main] INFO Banking - Entered username
+2024-05-15 20:56:44,868 [main] INFO Banking - Entered lastname
+2024-05-15 20:56:47,928 [main] INFO Banking - Entered password
+2024-05-15 20:57:37,410 [main] INFO Banking - url is opening
+2024-05-15 20:57:37,434 [main] INFO Banking - URL is opened
+2024-05-15 20:57:37,466 [main] INFO Banking - URL is opened
+2024-05-15 20:57:39,105 [main] INFO Banking - Clicked sign in
+2024-05-15 20:57:39,170 [main] INFO Banking - Entered email
+2024-05-15 20:57:39,402 [main] INFO Banking - Clicked on Create Account
+2024-05-15 20:57:42,673 [main] INFO Banking - Clicked radiobutton
+2024-05-15 20:57:42,763 [main] INFO Banking - Entered username
+2024-05-15 20:57:42,803 [main] INFO Banking - Entered lastname
+2024-05-15 20:57:45,858 [main] INFO Banking - Entered password
+2024-05-15 21:06:22,368 [main] INFO Banking - url is opening
+2024-05-15 21:06:22,406 [main] INFO Banking - URL is opened
+2024-05-15 21:06:22,425 [main] INFO Banking - URL is opened
+2024-05-15 21:06:23,952 [main] INFO Banking - Clicked sign in
+2024-05-15 21:06:24,032 [main] INFO Banking - Entered email
+2024-05-15 21:06:24,275 [main] INFO Banking - Clicked on Create Account
+2024-05-15 21:06:27,520 [main] INFO Banking - Clicked radiobutton
+2024-05-15 21:06:27,581 [main] INFO Banking - Entered username
+2024-05-15 21:06:27,639 [main] INFO Banking - Entered lastname
+2024-05-15 21:06:30,691 [main] INFO Banking - Entered password
+2024-05-15 21:07:00,757 [main] INFO Banking - Entered date
+2024-05-15 21:07:56,322 [main] INFO Banking - url is opening
+2024-05-15 21:07:56,346 [main] INFO Banking - URL is opened
+2024-05-15 21:07:56,373 [main] INFO Banking - URL is opened
+2024-05-15 21:07:59,020 [main] INFO Banking - Clicked sign in
+2024-05-15 21:07:59,087 [main] INFO Banking - Entered email
+2024-05-15 21:07:59,338 [main] INFO Banking - Clicked on Create Account
+2024-05-15 21:08:02,577 [main] INFO Banking - Clicked radiobutton
+2024-05-15 21:08:02,650 [main] INFO Banking - Entered username
+2024-05-15 21:08:02,685 [main] INFO Banking - Entered lastname
+2024-05-15 21:08:05,760 [main] INFO Banking - Entered password
+2024-05-15 21:08:35,848 [main] INFO Banking - Entered date
+2024-05-15 21:10:05,612 [main] INFO Banking - url is opening
+2024-05-15 21:10:05,633 [main] INFO Banking - URL is opened
+2024-05-15 21:10:05,654 [main] INFO Banking - URL is opened
+2024-05-15 21:10:07,502 [main] INFO Banking - Clicked sign in
+2024-05-15 21:10:07,564 [main] INFO Banking - Entered email
+2024-05-15 21:10:07,804 [main] INFO Banking - Clicked on Create Account
+2024-05-15 21:10:11,076 [main] INFO Banking - Clicked radiobutton
+2024-05-15 21:10:11,177 [main] INFO Banking - Entered username
+2024-05-15 21:10:11,209 [main] INFO Banking - Entered lastname
+2024-05-15 21:10:14,272 [main] INFO Banking - Entered password
+2024-05-15 21:10:44,352 [main] INFO Banking - Entered date
+2024-05-15 21:11:45,471 [main] INFO Banking - url is opening
+2024-05-15 21:11:45,494 [main] INFO Banking - URL is opened
+2024-05-15 21:11:45,522 [main] INFO Banking - URL is opened
+2024-05-15 21:11:46,947 [main] INFO Banking - Clicked sign in
+2024-05-15 21:11:47,019 [main] INFO Banking - Entered email
+2024-05-15 21:11:47,262 [main] INFO Banking - Clicked on Create Account
+2024-05-15 21:11:50,525 [main] INFO Banking - Clicked radiobutton
+2024-05-15 21:11:50,588 [main] INFO Banking - Entered username
+2024-05-15 21:11:50,639 [main] INFO Banking - Entered lastname
+2024-05-15 21:11:53,699 [main] INFO Banking - Entered password
+2024-05-15 21:12:23,773 [main] INFO Banking - Entered date
+2024-05-15 21:14:07,811 [main] INFO Banking - url is opening
+2024-05-15 21:14:07,846 [main] INFO Banking - URL is opened
+2024-05-15 21:14:07,894 [main] INFO Banking - URL is opened
+2024-05-15 21:14:09,222 [main] INFO Banking - Clicked sign in
+2024-05-15 21:14:09,283 [main] INFO Banking - Entered email
+2024-05-15 21:14:09,536 [main] INFO Banking - Clicked on Create Account
+2024-05-15 21:14:12,792 [main] INFO Banking - Clicked radiobutton
+2024-05-15 21:14:12,930 [main] INFO Banking - Entered username
+2024-05-15 21:14:12,963 [main] INFO Banking - Entered lastname
+2024-05-15 21:14:16,047 [main] INFO Banking - Entered password
+2024-05-15 21:14:19,101 [main] INFO Banking - Entered date
+2024-05-15 21:15:12,338 [main] INFO Banking - url is opening
+2024-05-15 21:15:12,372 [main] INFO Banking - URL is opened
+2024-05-15 21:15:12,391 [main] INFO Banking - URL is opened
+2024-05-15 21:15:14,255 [main] INFO Banking - Clicked sign in
+2024-05-15 21:15:14,323 [main] INFO Banking - Entered email
+2024-05-15 21:15:14,563 [main] INFO Banking - Clicked on Create Account
+2024-05-15 21:15:17,876 [main] INFO Banking - Clicked radiobutton
+2024-05-15 21:15:17,939 [main] INFO Banking - Entered username
+2024-05-15 21:15:17,997 [main] INFO Banking - Entered lastname
+2024-05-15 21:15:21,085 [main] INFO Banking - Entered password
+2024-05-15 21:15:24,135 [main] INFO Banking - Entered date
+2024-05-15 21:16:04,474 [main] INFO Banking - url is opening
+2024-05-15 21:16:04,510 [main] INFO Banking - URL is opened
+2024-05-15 21:16:04,533 [main] INFO Banking - URL is opened
+2024-05-15 21:16:05,786 [main] INFO Banking - Clicked sign in
+2024-05-15 21:16:05,853 [main] INFO Banking - Entered email
+2024-05-15 21:16:06,100 [main] INFO Banking - Clicked on Create Account
+2024-05-15 21:16:09,371 [main] INFO Banking - Clicked radiobutton
+2024-05-15 21:16:09,466 [main] INFO Banking - Entered username
+2024-05-15 21:16:09,513 [main] INFO Banking - Entered lastname
+2024-05-15 21:16:12,591 [main] INFO Banking - Entered password
+2024-05-15 21:16:15,650 [main] INFO Banking - Entered date
+2024-05-15 21:17:55,043 [main] INFO Banking - url is opening
+2024-05-15 21:17:55,067 [main] INFO Banking - URL is opened
+2024-05-15 21:17:55,097 [main] INFO Banking - URL is opened
+2024-05-15 21:17:56,337 [main] INFO Banking - Clicked sign in
+2024-05-15 21:17:56,414 [main] INFO Banking - Entered email
+2024-05-15 21:17:56,651 [main] INFO Banking - Clicked on Create Account
+2024-05-15 21:17:59,902 [main] INFO Banking - Clicked radiobutton
+2024-05-15 21:18:00,035 [main] INFO Banking - Entered username
+2024-05-15 21:18:00,066 [main] INFO Banking - Entered lastname
+2024-05-15 21:18:03,162 [main] INFO Banking - Entered password
+2024-05-15 21:18:06,232 [main] INFO Banking - Entered date
+2024-05-15 21:18:06,601 [main] INFO Banking - Entered month
+2024-05-15 21:18:06,964 [main] INFO Banking - Entered year
+2024-05-15 21:18:07,527 [main] INFO Banking - clicked newsletter
+2024-05-15 21:20:06,019 [main] INFO Banking - url is opening
+2024-05-15 21:20:06,043 [main] INFO Banking - URL is opened
+2024-05-15 21:20:06,067 [main] INFO Banking - URL is opened
+2024-05-15 21:20:07,755 [main] INFO Banking - Clicked sign in
+2024-05-15 21:20:07,830 [main] INFO Banking - Entered email
+2024-05-15 21:20:08,073 [main] INFO Banking - Clicked on Create Account
+2024-05-15 21:20:11,341 [main] INFO Banking - Clicked radiobutton
+2024-05-15 21:20:11,404 [main] INFO Banking - Entered username
+2024-05-15 21:20:11,462 [main] INFO Banking - Entered lastname
+2024-05-15 21:20:14,549 [main] INFO Banking - Entered password
+2024-05-15 21:20:17,602 [main] INFO Banking - Entered date
+2024-05-15 21:20:17,956 [main] INFO Banking - Entered month
+2024-05-15 21:20:18,306 [main] INFO Banking - Entered year
+2024-05-15 21:20:18,889 [main] INFO Banking - clicked newsletter
+2024-05-15 21:22:23,729 [main] INFO Banking - url is opening
+2024-05-15 21:22:23,754 [main] INFO Banking - URL is opened
+2024-05-15 21:22:42,160 [main] INFO Banking - url is opening
+2024-05-15 21:22:42,181 [main] INFO Banking - URL is opened
+2024-05-15 21:24:12,803 [main] INFO Banking - url is opening
+2024-05-15 21:24:12,841 [main] INFO Banking - URL is opened
+2024-05-15 21:24:12,862 [main] INFO Banking - URL is opened
+2024-05-15 21:24:14,700 [main] INFO Banking - Clicked sign in
+2024-05-15 21:24:14,773 [main] INFO Banking - Entered email
+2024-05-15 21:24:15,006 [main] INFO Banking - Clicked on Create Account
+2024-05-15 21:24:18,277 [main] INFO Banking - Clicked radiobutton
+2024-05-15 21:24:18,325 [main] INFO Banking - Entered username
+2024-05-15 21:24:18,381 [main] INFO Banking - Entered lastname
+2024-05-15 21:24:21,428 [main] INFO Banking - Entered password
+2024-05-15 21:24:24,490 [main] INFO Banking - Entered date
+2024-05-15 21:24:24,842 [main] INFO Banking - Entered month
+2024-05-15 21:24:25,204 [main] INFO Banking - Entered year
+2024-05-15 21:24:25,794 [main] INFO Banking - clicked newsletter
+2024-05-15 21:25:43,426 [main] INFO Banking - url is opening
+2024-05-15 21:25:43,466 [main] INFO Banking - URL is opened
+2024-05-15 21:26:38,733 [main] INFO Banking - url is opening
+2024-05-15 21:26:38,754 [main] INFO Banking - URL is opened
+2024-05-15 21:26:38,775 [main] INFO Banking - URL is opened
+2024-05-15 21:26:40,111 [main] INFO Banking - Clicked sign in
+2024-05-15 21:26:40,179 [main] INFO Banking - Entered email
+2024-05-15 21:26:40,415 [main] INFO Banking - Clicked on Create Account
+2024-05-15 21:26:43,674 [main] INFO Banking - Clicked radiobutton
+2024-05-15 21:26:43,770 [main] INFO Banking - Entered username
+2024-05-15 21:26:43,811 [main] INFO Banking - Entered lastname
+2024-05-15 21:26:46,884 [main] INFO Banking - Entered password
+2024-05-15 21:26:49,951 [main] INFO Banking - Entered date
+2024-05-15 21:26:50,304 [main] INFO Banking - Entered month
+2024-05-15 21:26:50,663 [main] INFO Banking - Entered year
+2024-05-15 21:26:51,249 [main] INFO Banking - clicked newsletter

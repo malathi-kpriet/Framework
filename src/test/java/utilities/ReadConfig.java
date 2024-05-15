@@ -43,6 +43,14 @@ public class ReadConfig {
 		return baseurl;
 		
 	}
+	
+	public String getEmail1()
+	{
+		String email=pro.getProperty("email");
+		return email;
+		
+	}
+	
 	public String getUserName()
 	{
 		String username=pro.getProperty("First_name");
@@ -69,23 +77,20 @@ public class ReadConfig {
 	}
 	
 	
-	public int getDate() {
-	    String dateString = pro.getProperty("date");
-	    int date = Integer.parseInt(dateString);
+	public String getDate() {
+	    String date = pro.getProperty("date");
 	    return date;
 	}
 
 
-	public int getMonth() {
+	public String getMonth() {
 	    String months = pro.getProperty("month");
-	    int month = Integer.parseInt(months);
-	    return month;
+	    return months;
 	}
 
-	public int getYear() {
+	public String getYear() {
 	    String years = pro.getProperty("date");
-	    int year = Integer.parseInt(years);
-	    return year;
+	    return years;
 	}
 		
 	}		
