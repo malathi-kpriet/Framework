@@ -1,17 +1,14 @@
 package testCases;
 import java.io.File;
 import java.io.IOException;
-import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.devtools.v118.page.Page;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.annotations.AfterClass;
@@ -69,15 +66,11 @@ public class BaseClass {
 	        driver = new InternetExplorerDriver();
 			}
 		
-		//driver.manage().timeouts().implicitlyWait(10,Timeouts.SECONDS);
 		Thread.sleep(30);
-		//driver.get(baseurl);
-		driver.get("http://www.automationpractice.pl/index.php");
+		driver.get(baseurl);
 		driver.manage().window().maximize();
 		logger.info("url is opening");
-		//@pytest.fixture()
-		//public void page_main(baseurl, selenium) {
-		  //  return Page.MainPage(selenium, baseurl=baseurl);
+	
 		
 	}
 	
@@ -95,16 +88,7 @@ public class BaseClass {
 		System.out.println("Screenshot taken");
 	}
 	
-	public String randomestring()
-	{
-		String generatedstring=RandomStringUtils.randomAlphabetic(8);
-		return(generatedstring);
-	}
 	
-	public static String randomeNum() {
-		String generatedString2 = RandomStringUtils.randomNumeric(4);
-		return (generatedString2);
-	}
 }	
 	
 

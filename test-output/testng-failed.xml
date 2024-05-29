@@ -4,13 +4,13 @@
   <test thread-count="5" name="BankingApp Test(failed)">
     <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="testCases.LoginPageTestCase">
+      <class name="testCases.DataDrivenTestCase">
         <methods>
-          <include name="loginTest"/>
           <include name="setup"/>
+          <include name="DataDriven" invocation-numbers="0 1 2 3 4"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- testCases.LoginPageTestCase -->
+      </class> <!-- testCases.DataDrivenTestCase -->
     </classes>
   </test> <!-- BankingApp Test(failed) -->
 </suite> <!-- Failed suite [Banking] -->

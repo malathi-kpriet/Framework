@@ -9,9 +9,7 @@
 
   <name>Banking</name>
   <url>http://maven.apache.org</url>
-
-
-
+  
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
@@ -23,16 +21,7 @@
     <version>5.6.4</version>
     <scope>test</scope>
     </dependency>
-    
-    <dependency>
-    <groupId>io.github.bonigarcia</groupId>
-    <artifactId>webdrivermanager</artifactId>
-    <version>5.0.3</version>
-    <scope>test</scope> <!-- You can adjust the scope based on your project requirements -->
-</dependency>
-
-    
-    
+   
     
 	<dependency>
     <groupId>ch.qos.logback</groupId>
@@ -46,6 +35,32 @@
     <artifactId>slf4j-api</artifactId>
     <version>1.7.32</version> <!-- Or the latest version available -->
 	</dependency>
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi</artifactId>
+        <version>5.2.3</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml</artifactId>
+        <version>5.2.3</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml-schemas</artifactId>
+        <version>4.1.2</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.xmlbeans</groupId>
+        <artifactId>xmlbeans</artifactId>
+        <version>5.1.1</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-collections4</artifactId>
+        <version>4.4</version>
+    </dependency>
+
 
 	
     <dependency>
@@ -55,11 +70,6 @@
       <scope>test</scope>
     </dependency>
     
-    <dependency>
-    <groupId>ch.qos.logback</groupId>
-    <artifactId>logback-classic</artifactId>
-    <version>1.2.3</version> <!-- Use the latest version available -->
-	</dependency>
 
     <dependency>
     <groupId>org.junit.jupiter</groupId>
@@ -81,18 +91,6 @@
     <scope>test</scope>
 </dependency>
 
-<dependency>
-    <groupId>org.apache.poi</groupId>
-    <artifactId>poi-ooxml</artifactId>
-    <version>4.1.2</version>
-</dependency>
-
-
-<dependency>
-    <groupId>org.apache.poi</groupId>
-    <artifactId>poi</artifactId>
-    <version>5.2.3</version>
-</dependency>
 
 <dependency>
     <groupId>com.aventstack</groupId>
@@ -107,6 +105,12 @@
 </dependency>
 
 <dependency>
+    <groupId>org.apache.logging.log4j</groupId>
+    <artifactId>log4j-core</artifactId>
+    <version>2.17.0</version>
+</dependency>
+
+<dependency>
     <groupId>commons-io</groupId>
     <artifactId>commons-io</artifactId>
     <version>2.11.0</version>
@@ -116,6 +120,18 @@
     <groupId>log4j</groupId>
     <artifactId>log4j</artifactId>
     <version>1.2.17</version>
+</dependency>
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-api</artifactId>
+            <version>2.17.0</version>
+        </dependency>
+
+<dependency>
+    <groupId>org.apache.maven.plugin-tools</groupId>
+    <artifactId>maven-plugin-annotations</artifactId>
+    <version>3.4</version>
+    <scope>provided</scope>
 </dependency>
 
   </dependencies>

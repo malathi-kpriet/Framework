@@ -4,12 +4,16 @@ import java.io.IOException;
 
 import org.testng.annotations.Test;
 
+import com.aventstack.extentreports.util.Assert;
+
 import pageObjects.LoginPage;
 
 
 @SuppressWarnings("unused")
 public class LoginPageTestCase extends BaseClass
 {
+	private static final boolean True = false;
+
 	@Test
 	public void loginTest() throws IOException, InterruptedException 
 	{
@@ -26,7 +30,6 @@ public class LoginPageTestCase extends BaseClass
         
 		lp.setEmail1(email);
 		logger.info("Entered email");
-		//Thread.sleep(3000);
 		
 		lp.ClickCreate();
 		logger.info("Clicked on Create Account");
@@ -42,13 +45,20 @@ public class LoginPageTestCase extends BaseClass
 		lp.setLastName(lastname);
 		logger.info("Entered lastname");
 
-		//lp.setEmail(email);
-		//logger.info("Entered email");
 		Thread.sleep(3000);
 
 		lp.setPassword(password);
 		logger.info("Entered password");
 		Thread.sleep(3000);
+		
+		boolean setPassword = True;
+		if (setPassword) {
+		    logger.info("Password set successfully");
+		} else {
+		    captureScreen(driver, "password");
+		    logger.info("Setting password failed");
+		}
+		
 
 		lp.setDate(date);
 		logger.info("Entered date");
